@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Abhay Chaturvedi](https://github.com/abhay707)
+- Place: Chhatarpur, Madhya Pradesh
+- Bio: Learning and growing through trial and errors
+- GitHub: [abhay707](https://github.com/abhay707)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
